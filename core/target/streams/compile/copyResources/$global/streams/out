@@ -1,0 +1,15 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/ui,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/ui)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/log4j-defaults.properties,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/log4j-defaults.properties)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/ui/static,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/ui/static)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/ui/static/jquery-1.11.1.min.js,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/ui/static/jquery-1.11.1.min.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/ui/static/webui.css,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/ui/static/webui.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/ui/static/bootstrap-tooltip.js,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/ui/static/bootstrap-tooltip.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/ui/static/bootstrap.min.css,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/ui/static/bootstrap.min.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/ui/static/spark-logo-77x50px-hd.png,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/ui/static/spark-logo-77x50px-hd.png)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/ui/static/sorttable.js,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/ui/static/sorttable.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/ui/static/initialize-tooltips.js,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/ui/static/initialize-tooltips.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/peicheng/spark-1.1.0/core/src/main/resources/org/apache/spark/ui/static/spark_logo.png,/home/peicheng/spark-1.1.0/core/target/scala-2.10/classes/org/apache/spark/ui/static/spark_logo.png)[0m
